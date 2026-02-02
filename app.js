@@ -8,8 +8,8 @@ const PASSWORD = 'Cisco2026';
 // 3. Backend séparé
 
 // Pour le développement local uniquement :
-const GITHUB_TOKEN = 'VOTRE_TOKEN_ICI'; // Générer sur https://github.com/settings/tokens
-const GIST_ID = 'VOTRE_GIST_ID_ICI'; // L'ID du Gist (long code après /gists/)
+const GITHUB_TOKEN = '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'; // Générer sur https://github.com/settings/tokens
+const GIST_ID = 'bbf8bab768fff37c17d8b308f6b58356'; // L'ID du Gist (long code après /gists/)
 
 let students = [];
 
