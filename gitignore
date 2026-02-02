@@ -1,0 +1,30 @@
+# Fichiers de configuration sensibles
+.env
+config.js
+secrets.js
+
+# Ne PAS commit app.js s'il contient votre vrai token
+# app.js
+
+# Dépendances Node
+node_modules/
+package-lock.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers de sauvegarde
+*.backup
+*.bak
+*.tmp
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
